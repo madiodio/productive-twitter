@@ -33,7 +33,6 @@ div[data-testid="primaryColumn"] {
 }
 
 body {
-  background: #151e27 !important;
   font-family: "Avenir", Helvetica, Arial, sans-serif !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
@@ -63,9 +62,9 @@ article div div div div {
   line-height: 1.5;
 }
 
-div {
+/* div {
   border-color: #06090c !important;
-}
+} */
 
 header div div div div div {
   padding: 12px 0;
