@@ -27,9 +27,8 @@ header {
 
 div[data-testid="primaryColumn"] {
   max-width: 650px !important;
-  box-shadow: 0 0 20px 6px rgba(0, 0, 0, 0.3);
-  background-color: rgb(21, 32, 43);
-  border-color: #0d161e !important;
+  box-shadow: 0 0 22px 6px rgba(0, 0, 0, 0.2);
+  border-color: #657786 !important;
 }
 
 body {
